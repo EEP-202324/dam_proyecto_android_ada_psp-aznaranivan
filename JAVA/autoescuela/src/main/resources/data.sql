@@ -1,3 +1,0 @@
-/*
-INSERT INTO CASH_CARD(ID, AMOUNT, OWNER) VALUES (1, 123.45, 'sarah1');
-*/
