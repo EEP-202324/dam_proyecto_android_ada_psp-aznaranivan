@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ANDROID/autoescuela1/app/build/generated/source/kapt/debug"/>
+	<classpathentry kind="src" path="ANDROID/autoescuela1/app/build/tmp/kapt3/stubs/debug"/>
+	<classpathentry kind="src" path="JAVA/autoescuela/src/main/java"/>
+	<classpathentry kind="src" path="JAVA/autoescuela/src/test/java"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/app/build/intermediates/merged_java_res/debug/base.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/app/build/intermediates/project_dex_archive/debug/out/f83ac1c4f8419322f8670da95d66e47644e23b909f059c26d8b8dd380aa91ea1_0.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/app/build/intermediates/project_dex_archive/debug/out/f83ac1c4f8419322f8670da95d66e47644e23b909f059c26d8b8dd380aa91ea1_1.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/app/build/intermediates/project_dex_archive/debug/out/f83ac1c4f8419322f8670da95d66e47644e23b909f059c26d8b8dd380aa91ea1_2.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/app/build/intermediates/project_dex_archive/debug/out/f83ac1c4f8419322f8670da95d66e47644e23b909f059c26d8b8dd380aa91ea1_3.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/app/build/intermediates/project_dex_archive/debug/out/f83ac1c4f8419322f8670da95d66e47644e23b909f059c26d8b8dd380aa91ea1_4.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/app/build/intermediates/project_dex_archive/debug/out/f83ac1c4f8419322f8670da95d66e47644e23b909f059c26d8b8dd380aa91ea1_5.jar"/>
+	<classpathentry kind="lib" path="ANDROID/autoescuela1/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="JAVA/autoescuela/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="ANDROID/autoescuela1/app/build/intermediates/javac/debug/classes"/>
+</classpath>

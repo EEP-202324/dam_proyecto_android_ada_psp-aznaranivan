@@ -1,5 +1,0 @@
-[
-   {"id":1, "nombre":"Fran", "apellido":"Maurín", "DNI":"34567871L", "owner": "usuario1"},
-   {"id":2, "nombre":"Pedro", "apellido":"Perez", "DNI":"180517429M", "owner": "usuario2"},
-   {"id":3, "nombre":"Juan", "apellido":"Garcia", "DNI":"828612807I", "owner": "usuario3"}
-]
